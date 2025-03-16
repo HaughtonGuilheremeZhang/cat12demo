@@ -3,10 +3,7 @@
 eg.
 
 
-|_label0  
-  |_xxx.png  
-  ...  
-|_label1  
-  |_xx.png  
-  ...   
-...  
+├── _label0
+│   ├── xxx.png
+│   └── ...
+└── _label1
