@@ -1,17 +1,17 @@
 # cat12demo
-##introduction
+## introduction
 
 this several scripts can be used as a tool to demostrate classic cnn net in cat12 classified mission
 
-using ca12dataset
+using cat12dataset
 
-##demo
+## demo
 
 run demo.py
 
 use browser to open the gradio ui
 
-##train
+## train
 
 run train.py
 
