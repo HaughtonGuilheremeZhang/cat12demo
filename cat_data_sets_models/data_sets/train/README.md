@@ -1,16 +1,12 @@
 #organize the data of different labels in different folders
+
 eg.
+
+
 |_label0  
-
   |_xxx.png  
-  
   ...  
-  
 |_label1  
-
   |_xx.png  
-  
-  ...  
-  
+  ...   
 ...  
-
